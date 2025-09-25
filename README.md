@@ -25,25 +25,31 @@ Trabajo con **principios SOLID**, **Clean Code**, **Onion Architecture**, **CQRS
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/VB.NET-68217A?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### Frameworks / Arquitectura
+### Frameworks
 <p>
   <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MudBlazor-1E1E1E?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Arquitecturas
+<p>
   <img src="https://img.shields.io/badge/CQRS-0A0A0A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MediatR-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Onion%20Architecture-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2D2D2D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-1D3557?style=for-the-badge&logo=abstract&logoColor=white"/>
 </p>
 
-### Frontend
+### Bases de Datos
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/MudBlazor-1E1E1E?style=for-the-badge&logo=blazor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Observabilidad / DevOps
@@ -64,23 +70,24 @@ Trabajo con **principios SOLID**, **Clean Code**, **Onion Architecture**, **CQRS
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+### 🧩 Patrones de Diseño (en .NET)
+- 🔄 **Repository Pattern** — Abstracción de la capa de datos.  
+- 📬 **Mediator Pattern** — Comunicación desacoplada (ej. MediatR).  
+- 🧱 **Factory Method** — Creación controlada de objetos.  
+- 📦 **Singleton** — Una sola instancia global controlada.  
+- ⚙️ **Strategy** — Algoritmos intercambiables de forma dinámica.  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=GermanPatricioMonie&show_icons=true&theme=radical&hide_title=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanPatricioMonie&layout=compact&theme=radical" alt="top langs"/>
-</p>
-<p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=GermanPatricioMonie&theme=radical" alt="streak"/>
 </p>
 
 ---
@@ -93,13 +100,5 @@ Trabajo con **principios SOLID**, **Clean Code**, **Onion Architecture**, **CQRS
 - 🎨 Interés en UX, UI y observabilidad end-to-end.  
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00ADD8,100:512BD4)
