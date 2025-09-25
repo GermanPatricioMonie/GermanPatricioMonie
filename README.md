@@ -3,17 +3,20 @@
 <p align="center">
   <b>Software Developer</b> — .NET · Go · Microservicios · Fintech
   <br/>
-  Argentina · 25 años
+  Argentina · 25 años · Fullstack Developer
 </p>
 
 ---
 
-## 👋 Sobre mí
-Fullstack con foco en **.NET** y **Go**. Me interesan la **observabilidad**, la **arquitectura limpia** y el **desempeño**. Trabajo con principios **SOLID**, **Clean Code**, **Onion Architecture**, **CQRS** y **MediatR**.
+## 👋 Hola, soy German
+Soy desarrollador **Fullstack** con foco en **.NET** y **Go**. Me apasiona la **observabilidad**, la **arquitectura limpia** y crear software de **alto rendimiento**.  
+Trabajo con **principios SOLID**, **Clean Code**, **Onion Architecture**, **CQRS** y **MediatR**.
+
+💡 Mi objetivo es construir soluciones escalables, resilientes y con métricas desde el día uno.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Stack principal
 
 ### Lenguajes
 <p>
@@ -21,6 +24,8 @@ Fullstack con foco en **.NET** y **Go**. Me interesan la **observabilidad**, la 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/VB.NET-68217A?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### Frameworks / Arquitectura
@@ -38,6 +43,7 @@ Fullstack con foco en **.NET** y **Go**. Me interesan la **observabilidad**, la 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/MudBlazor-1E1E1E?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### Observabilidad / DevOps
@@ -50,6 +56,8 @@ Fullstack con foco en **.NET** y **Go**. Me interesan la **observabilidad**, la 
   <img src="https://img.shields.io/badge/Mimir-111827?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ### IDEs / Herramientas
@@ -61,6 +69,7 @@ Fullstack con foco en **.NET** y **Go**. Me interesan la **observabilidad**, la 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -76,11 +85,12 @@ Fullstack con foco en **.NET** y **Go**. Me interesan la **observabilidad**, la 
 
 ---
 
-## 🐍 Snake (contribuciones)
-> Requiere el workflow `snake.yml` (Platane/snk). Una vez activo, estas imágenes se actualizarán automáticamente.
-  
-![Snake animation](https://raw.githubusercontent.com/GermanPatricioMonie/GermanPatricioMonie/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://raw.githubusercontent.com/GermanPatricioMonie/GermanPatricioMonie/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+## 🌟 Extras
+- 🚀 Experiencia en fintech y APIs de pagos a gran escala.  
+- 📈 Referente técnico en proyectos con equipos de 3–4 devs.  
+- 🤖 Automatización de procesos para reducir tiempos y errores.  
+- 🧭 Arquitectura, buenas prácticas y mentoring.  
+- 🎨 Interés en UX, UI y observabilidad end-to-end.  
 
 ---
 
@@ -88,6 +98,8 @@ Fullstack con foco en **.NET** y **Go**. Me interesan la **observabilidad**, la 
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white"/>
   <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00ADD8,100:512BD4)
