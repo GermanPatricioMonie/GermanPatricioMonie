@@ -92,13 +92,4 @@ Trabajo con **principios SOLID**, **Clean Code**, **Onion Architecture**, **CQRS
 
 ---
 
-## 🌟 Extras
-- 🚀 Experiencia en fintech y APIs de pagos a gran escala.  
-- 📈 Referente técnico en proyectos con equipos de 3–4 devs.  
-- 🤖 Automatización de procesos para reducir tiempos y errores.  
-- 🧭 Arquitectura, buenas prácticas y mentoring.  
-- 🎨 Interés en UX, UI y observabilidad end-to-end.  
-
----
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00ADD8,100:512BD4)
